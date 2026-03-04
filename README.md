@@ -1,6 +1,6 @@
 # ofx-to-csv
 
-[![CI](https://github.com/remotenodelabs/ofx-to-csv/actions/workflows/ci.yml/badge.svg)](https://github.com/remotenodelabs/ofx-to-csv/actions/workflows/ci.yml)
+[![CI](https://github.com/remotenodelabs/ofx-to-csv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/remotenodelabs/ofx-to-csv/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/ofx-to-csv.svg)](https://www.npmjs.com/package/ofx-to-csv)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
